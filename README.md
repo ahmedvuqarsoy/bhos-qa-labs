@@ -10,5 +10,5 @@ Major: Information Security
 
 
 
-![](https://github.com/ahmedvuqarsoy/bhos-qa-labs/workflows/tests.yml/badge.svg)
+![](https://github.com/ahmedvuqarsoy/bhos-qa-labs/workflows/gradle.yml/badge.svg)
 
