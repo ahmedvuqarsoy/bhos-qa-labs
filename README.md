@@ -7,3 +7,8 @@ Name: Hajiahmad Ahmadzada
 Year: 4th
 
 Major: Information Security
+
+
+
+![](https://github.com/ahmedvuqarsoy/bhos-qa-labs/workflows/tests.yml/badge.svg)
+
